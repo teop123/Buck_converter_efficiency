@@ -121,6 +121,7 @@ The discrete buck converter in this project achieved 95.6% steady-state efficien
 | 5 | 4.7690 | 4.5490 | 4.7918 | 94.9 |
 
 ![Efficiency vs Load](images/efficiency_vs_load.png)
+![Plot](images/efficiency_vs_load_plot.png)
 
 As load increased, output voltage decreased slightly and efficiency gradually dropped. This indicates that conduction losses increased as load current became larger.
 
@@ -137,6 +138,7 @@ As load increased, output voltage decreased slightly and efficiency gradually dr
 | 18 | 0.278 | 2.78 | 4.1513 | 1.7233 | 2.0875 | 82.6 |
 
 ![Efficiency vs Input Voltage](images/efficiency_vs_input_voltage.png)
+![Plot](images/efficiency_vs_input_voltage_plot.png)
 
 The converter maintained high efficiency from 8V to 15V, but both efficiency and output regulation degraded at 18V. This suggests that the simple asynchronous buck structure has limitations under higher input-voltage conditions.
 
