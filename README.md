@@ -120,6 +120,7 @@ The discrete buck converter in this project achieved 95.6% steady-state efficien
 | 7.5 | 4.7890 | 3.0588 | 3.2076 | 95.4 |
 | 5 | 4.7690 | 4.5490 | 4.7918 | 94.9 |
 
+
 ![Plot](images/efficiency_vs_load_plot.png)
 
 As load increased, output voltage decreased slightly and efficiency gradually dropped. This indicates that conduction losses increased as load current became larger.
@@ -135,6 +136,7 @@ As load increased, output voltage decreased slightly and efficiency gradually dr
 | 12 | 0.417 | 4.17 | 4.8020 | 2.3059 | 2.4113 | 95.6 |
 | 15 | 0.333 | 3.33 | 4.7570 | 2.2629 | 2.3844 | 94.9 |
 | 18 | 0.278 | 2.78 | 4.1513 | 1.7233 | 2.0875 | 82.6 |
+
 
 ![Plot](images/efficiency_vs_input_voltage_plot.png)
 
